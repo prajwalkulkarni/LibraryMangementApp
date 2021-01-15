@@ -2,7 +2,7 @@
 
 
 Library management app using firebase. <br>
-Functionalities:
+<b>Functionalities:</b>
 <ul>
   <li>Create user-acc(enduser)</li>
   <li>Register admin account.</li>
