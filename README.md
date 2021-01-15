@@ -1,7 +1,7 @@
 # Library Management App for Android
 
 
-Library management app using firebase.
+Library management app using firebase. <br>
 Functionalities:
 <ul>
   <li>Create user-acc(enduser)</li>
